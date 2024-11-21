@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+standart hesap makinesi uygulaması<br>
+bu uygulama toplama, çıkarma, çarpma ve bölme işlemlerini içerir<br>
+sadece tam sayılarla değil kesirli sayılar da dahil<br>
+<br><br><br>
+standart calculator app<br>
+this app includes add, subtract, multiply and divide operations<br>
+not only whole numbers, also dotted numbers<br>
