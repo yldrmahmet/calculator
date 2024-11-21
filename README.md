@@ -1,7 +1,7 @@
-standart hesap makinesi uygulaması
-bu uygulama toplama, çıkarma, çarpma ve bölme işlemlerini içerir
-sadece tam sayılarla değil kesirli sayılar da dahil
-
-standart calculator app
-this app includes add, subtract, multiply and divide operations
-not only whole numbers, also dotted numbers
+standart hesap makinesi uygulaması<br>
+bu uygulama toplama, çıkarma, çarpma ve bölme işlemlerini içerir<br>
+sadece tam sayılarla değil kesirli sayılar da dahil<br>
+<br><br><br>
+standart calculator app<br>
+this app includes add, subtract, multiply and divide operations<br>
+not only whole numbers, also dotted numbers<br>
